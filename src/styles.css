@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: tomato;
+}
+ul {
+  text-align: left;
+  list-style: none;
+  display: flex;
+  margin: 0 auto;
+  width: max-content;
+}
+li {
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 30px;
+}
+p {
+  font-weight: 700;
+  font-size: 25px;
+  background: white;
+}
+h1 {
+  background: white;
+}
+input {
+  height: 30px;
+}
