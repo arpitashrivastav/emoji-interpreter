@@ -13,7 +13,12 @@ const emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😋": "yummy",
+  "😜": "silly",
+  "😁": "excited",
+  "😮": "surprised",
+  "😴": "sleepy"
 };
 
 export default function App() {
